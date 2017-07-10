@@ -1,13 +1,13 @@
 
 # ex no.1
 
-# def right_justify():                
-    #s = "monty"
-    #print(" " * 65, s)
+def right_justify():                
+    s = "monty"
+    print(" " * 65, s)
 
 
 
-#right_justify()
+right_justify()
 
 
 # ex no.2
