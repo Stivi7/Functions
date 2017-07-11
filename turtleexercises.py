@@ -71,7 +71,7 @@ def circle(t, r):
 if __name__ == '__main__':
     bob = turtle.Turtle()
 
-    # draw a circle centered on the origin
+    # draw a circle centered on the origin   # draw a polygon
     length = 100
     bob.pu()
     bob.fd(length)
